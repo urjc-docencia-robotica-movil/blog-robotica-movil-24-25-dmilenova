@@ -8,7 +8,7 @@ The vacuum cleaner starts in the "Foward" state going foward, and remains in the
 ## State diagram
 State diagram:
 
-![State diagram](state_diagram..png "State diagram")
+![State diagram](state_diagram.png "State diagram")
 
 
 ## Exploration
