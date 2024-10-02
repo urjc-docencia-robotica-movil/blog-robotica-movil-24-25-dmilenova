@@ -27,6 +27,8 @@ Video towards the end of the cleaning:
 
 [![Vacuum cleaner video 2](blob:https://urjc-my.sharepoint.com/407624ac-34b7-4ce0-9e85-2261a94ae96a)](https://urjc-my.sharepoint.com/:v:/g/personal/d_milenova_2019_alumnos_urjc_es/EZitQso7KL9NlvtYksNiU0sBasKiLi3Yino5S_zwnhi08A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gBGTzY "Vacuum cleaner video 2")
 
+![Vacuum cleaner video 2]( Video_vacuum_end.mp4 "Vacuum cleaner video 2")
+
 The rest of the videos:
 
 ![Vacuum cleaner video](https://github.com/urjc-docencia-robotica-movil/p1-vacuum-cleaner-24-25-dmilenova/tree/main/videos "Vacuum cleaner video")
