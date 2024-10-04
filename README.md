@@ -23,13 +23,26 @@ Video while cleaning:
 
 [![Vacuum cleaner video 1](blob:https://urjc-my.sharepoint.com/8fbc1b96-6be1-4cea-aa57-435def3aa9b9)](https://urjc-my.sharepoint.com/:v:/g/personal/d_milenova_2019_alumnos_urjc_es/ESbrpMoaT61OqJ7LRNtQyccB7RrO_sfiJPJmEAMmSZGBXw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vnwi5U "Vacuum cleaner video 1")
 
+
+https://github.com/user-attachments/assets/4261540d-1a08-4300-a3ac-c6ccecd256fd
+
+
 Video towards the end of the cleaning:
 
 [![Vacuum cleaner video 2](blob:https://urjc-my.sharepoint.com/407624ac-34b7-4ce0-9e85-2261a94ae96a)](https://urjc-my.sharepoint.com/:v:/g/personal/d_milenova_2019_alumnos_urjc_es/EZitQso7KL9NlvtYksNiU0sBasKiLi3Yino5S_zwnhi08A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gBGTzY "Vacuum cleaner video 2")
 
+
+https://github.com/user-attachments/assets/e856d3bf-f333-455b-998b-15143ef6f092
+
+
 The rest of the videos:
 
 ![Vacuum cleaner video](https://urjc-my.sharepoint.com/:f:/g/personal/d_milenova_2019_alumnos_urjc_es/Eixa4ZBVaJxEk1P1mxGH5i4B1W1mKPjr-3Q8JatgWXCNPw?e=ZVh3BM "Vacuum cleaner video")
+[video1.webm](https://github.com/user-attachments/assets/24d4e3ea-bb26-4a14-8149-586d9564e9c6)
+[video2.webm](https://github.com/user-attachments/assets/2b77027c-3cca-466f-aead-d7980b76b3ac)
+[video3.webm](https://github.com/user-attachments/assets/7f717393-ec3d-4a8e-a974-10d246531542)
+[video4.webm](https://github.com/user-attachments/assets/e456b175-c688-4b2d-bd58-831281695530)
+[video5.webm](https://github.com/user-attachments/assets/a2411927-4686-42ed-bb83-48511758750b)
 
 ## Difficulties
 
